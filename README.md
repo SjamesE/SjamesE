@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SjamesE
 - 👀 I’m a C# software engineer 
-- 🌱 I’m currently learning C++ and software reversing
+- 🌱 I’m currently learning C++, reverse engineering and some linux =D
 
 <!---
 SjamesE/SjamesE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
