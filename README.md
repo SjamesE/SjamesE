@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SjamesE
 - 👀 I’m a C# software engineer 
-- 🌱 I’m currently learning C++, reverse engineering and some linux =D
+- 🌱 I'm currently working on small game projects using MonoGame in C#
 
 <!---
 SjamesE/SjamesE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
